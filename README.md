@@ -6,4 +6,6 @@ Teksty pogrubione **w**
 
 - aaaa
 
-asdf
+asdfpo
+
+poprawka 2
