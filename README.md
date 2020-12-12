@@ -10,3 +10,6 @@ asdfpo
 
 poprawka 2
 poprawak 3
+
+zadani8 01
+zadanie8 02
