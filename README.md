@@ -17,3 +17,4 @@ poprawka asdfasf
 **poprawka 2 z zadania 8"
 
 ostatnia zamian przekazana push
+jeszcze jedna zmiana aby sie upewnic ze dziala
