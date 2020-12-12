@@ -14,3 +14,6 @@ poprawak 3
 zadani8 01
 zadanie8 02
 poprawka asdfasf
+**poprawka 2 z zadania 8"
+
+ostatnia zamian przekazana push
